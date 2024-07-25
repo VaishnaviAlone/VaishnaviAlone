@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d11f93bca635e529eeedef9eb13e20553a9ed6dc4bda4ed8602abc915c6a02a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilkn27&label=Profile%20views&color=0e75b6&style=flat" alt="akhilkn27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VaishnaviAlone&label=Profile%20views&color=0e75b6&style=flat" alt="VaishnaviAlone" /> </p>
 
 - 🌱 I’m currently learning **Power BI**
 
